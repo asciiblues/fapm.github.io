@@ -53,12 +53,40 @@ align-content: center;
   margin-left: auto;
   margin-right: auto;
   width: 50%;
-  width: 512px;
+  width: 480px;
 }
 .h3{
     text-align: center;
-    font-size: 18pt;
+    font-size: 20pt;
+    background-color: green;
+    color: aliceblue;
 }
 .tr1{
     background-color: lightgray;
+}
+.srqt{
+    background-color:rgb(0, 0, 0);
+    text-align: center;
+    align-items: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    width:fit-content;
+    font-size: 20pt;
+}
+.top{
+    background-color: lightblue;
+}
+.tr2{
+    background-color: lightgreen;
+}
+.tr3{
+    background-color: lightpink;
+}
+.tr4{
+    background-color: lightyellow;
+}
+.idiv{
+    background-color: darkorchid;
 }
